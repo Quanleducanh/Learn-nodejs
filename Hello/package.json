@@ -1,0 +1,9 @@
+{
+  "name": "Hello",
+  "version": "0.1.0",
+  "description": "Hello world project",
+  "main": "index.js",
+  "repository": "https://github.com/Quanleducanh/Learn-nodejs",
+  "author": "Quan <quanleducanh2002@gmail.com>",
+  "license": "MIT"
+}
